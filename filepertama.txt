@@ -1,1 +1,2 @@
 hello ini file pertama saya untuk belajar git
+baris yg ini update alias edit
