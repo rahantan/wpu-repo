@@ -1,2 +1,3 @@
 hello ini file pertama saya untuk belajar git
 baris 2 yang baru
+ahay
